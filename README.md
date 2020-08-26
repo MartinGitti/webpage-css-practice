@@ -3,4 +3,5 @@ Some basic css styles added to my html pages using inline, internal and external
 
 Web Page Example:
 
-<img src="screenshots-of-page" alt="View of Web Page 1">
+<img src="screenshots-of-page/htmlPage1.JPG" alt="View of Web Page 1">
+
