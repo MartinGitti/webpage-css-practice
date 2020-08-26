@@ -1,5 +1,7 @@
 # webpage-css-practice
 Some basic css styles added to my html pages using inline, internal and external styling.
+<br/>
+I've also made use of Bootstrap to style my Web Page.
 
 Please note that this web page is not a functional Web Page.
 <br/>
