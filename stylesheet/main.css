@@ -1,0 +1,92 @@
+/* Css Styling:*/
+
+#heading1 {
+	color: black;
+	font-size: 80px;
+	
+}
+/*Styling of all Main headings*/
+h1 {
+	color: greenyellow;
+	text-align: center;
+}
+/*Styling of all headings after main heading*/
+h2 {
+	color: lightgreen;
+	text-align: center;
+}
+
+nav{
+	border: solid;
+	border-color: greenyellow;
+	border-radius: 20px;
+}
+
+a :hover {
+	color: pink;
+}
+
+.imageEdit {
+	 width: 500px;
+	 height: 500px;
+	 margin: 0px;
+	 padding: 2px;
+  	 box-shadow: 5px 5px 8px #888888;
+}
+
+b {
+	font-size: 30px
+}
+
+th {
+	color: steelblue;
+	text-align: center;
+	font-style: italic;
+	width:30%;
+}
+
+p {
+	border-color: black;
+	border-style: solid;
+	border-radius: 10px;
+	color: black;
+	display: block;
+	margin: 100px;
+}
+
+#myTable, th, tr {
+	border-color: greenyellow;
+	border-collapse: collapse;
+	border-style: dashed;
+	border-radius: 50px;
+}
+
+td {
+	margin: 0px;
+	padding: 0px;
+}
+
+#divEnd {
+	text-align: center;
+}
+
+/* Styling for form: */
+form {
+	border: solid 2px black;
+	background-color: skyblue;
+	border-radius: 20px;
+	margin: 0px;
+	padding: 10px;
+}
+
+.form-inline {
+	padding: 20px;
+}
+
+.form {
+	margin: 100px;
+	padding-left: 500px;
+	padding-right: 500px;
+}
+
+
