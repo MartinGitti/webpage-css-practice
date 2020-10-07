@@ -7,8 +7,8 @@
 <p>This page purely focuses on CSS styling of a Web Page.</p>
 <br/>
 
-This project is one of my first attempts to using css.
-The purpose of the page is purely for css styling practice.
+<p>This project is one of my first attempts to using css.</p>
+<p>The purpose of the page is purely for css styling practice.</p>
 
 ## Web Page Example:
 
