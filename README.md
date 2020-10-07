@@ -11,7 +11,7 @@ This project is one of my first attempts to using css.
 <br/>
 The purpose of the page is purely for css styling practice.
 
-Web Page Example:
+## Web Page Example:
 
 <img src="screenshots-of-page/htmlPage1.JPG" alt="View of Web Page 1">
 <img src="screenshots-of-page/htmlPage2.JPG" alt="View of Web Page 2">
