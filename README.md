@@ -5,10 +5,9 @@
 
 <p>Please note that this web page is not a functional Web Page.</p>
 <p>This page purely focuses on CSS styling of a Web Page.</p>
+<br/>
 
-<br/>
 This project is one of my first attempts to using css.
-<br/>
 The purpose of the page is purely for css styling practice.
 
 ## Web Page Example:
