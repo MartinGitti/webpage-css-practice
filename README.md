@@ -3,8 +3,8 @@
 * In this task we'll also make use of Bootstrap for styling.
 <br/>
 
-Please note that this web page is not a functional Web Page.
-This page purely focuses on CSS styling of a Web Page.
+<p>Please note that this web page is not a functional Web Page.</p>
+<p>This page purely focuses on CSS styling of a Web Page.</p>
 
 <br/>
 This project is one of my first attempts to using css.
